@@ -8,7 +8,7 @@
 暂无
 
 ### BUG相关
-请通过[Issues](Issues)进行Bug反馈及交流，请严格按照[问题模板填写](bug_template.txt)
+请通过[Issues](https://gitee.com/gazeboxu/enddns-pub/issues)进行Bug反馈及交流，请严格按照[问题模板填写](bug_template.txt)
 
 ### 配置分享
 3rdrefconf可用于有愿意分享配置文件的同学使用，请严格按时以下格式来使用
