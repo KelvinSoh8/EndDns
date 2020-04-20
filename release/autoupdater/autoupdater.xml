@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>0.1.0.0</version>
-    <url>https://gitee.com/gazeboxu/enddns-pub/attach_files/377505/download</url>
+    <url>https://res.cloudinary.com/gazebo/raw/upload/v1587365038/enddns/EndDNSWin_v0.1.0_m4cupc.zip</url>
     <changelog>https://gitee.com/gazeboxu/enddns-pub/raw/master/release/autoupdater/changelog.txt</changelog>
     <mandatory>true</mandatory>
 </item>
