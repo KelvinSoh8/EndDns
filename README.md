@@ -4,8 +4,9 @@
 ### 关于本软件的申明
 此软件为免费软件，且当前仍处于开发阶段，不能确保稳定性。愿意使用此软件的用户都被视为测试用户，此软件开发者不对用户使用此软件造成的直接或间接损失承担任何责任，如果不同意此申明，请不要使用此软件。
 
-### 下载信息
-暂无
+### 下载链接
+- [Windows版本](https://www.enddns.com/download/windows/latest)
+- [Mac版本](https://www.enddns.com/download/darwin/latest)
 
 ### BUG相关
 请通过[Issues](https://gitee.com/gazeboxu/enddns-pub/issues)进行Bug反馈及交流，请严格按照[问题模板填写](bug_template.txt)
