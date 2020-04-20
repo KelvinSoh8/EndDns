@@ -1,4 +1,4 @@
-v0.0.1.0
+v0.1.0.0
 DNS Chooser改名为EndDNS了，这是改后的第一版，增加了很多功能。老DNS Chooser用户一定要完全卸载完DNS Chooser后再安装EndDNS，详情参见 https://www.enddns.com/
 1. EndDNS自动安装包
 2. 支持按不同规则解析域名

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.0.1.0</version>
-    <url></url>
-    <changelog></changelog>
+    <version>0.1.0.0</version>
+    <url>https://gitee.com/gazeboxu/enddns-pub/attach_files/377505/download</url>
+    <changelog>https://gitee.com/gazeboxu/enddns-pub/raw/master/release/autoupdater/changelog.txt</changelog>
     <mandatory>true</mandatory>
 </item>
